@@ -1,54 +1,54 @@
-ID, Name                                , Description
- 1, Beans mentioned                     , Beans are brought up
- 2, Vedal raids/vedal raid mentioned    , Vedal raids Ellie or his first raid is mentioned
- 3, Robots discussion                   , Discussion about robots occurs
- 4, AI discussion                       , Discussion about artificial intelligence occurs
- 5, 'Boy Scout'                         , Ellie says that she's a boy scout
- 6, Neurodog mentioned                  , Neurodog is mentioned
- 7, 'Growing boy'                       , Ellie says that she's a growing boy
- 8, Self doxing                         , Ellie unintentionally reveals personal information
- 9, Story about being awkward           , A story about being awkward is shared
-10, 'Not a Ukelele'                     , Ellie says her banjo is not a ukelele
-11, I'd win that fight/sweep the leg    , Ellie claims she'd win a fight or says 'sweep the leg'
-12, Parasocialism                       , Parasocial relationships are discussed
-13, Non-standard unit of measurement    , "A non-standard unit of measurement is used (something other than Metric, Imperial, or US customary)"
-14, Bao mentioned                       , Bao is mentioned
-15, Abnormally large mouth              , Ellie mentions an abnormally large mouth
-16, Bugs mentioned                      , Bugs are mentioned
-17, Biology facts                       , Biology facts are shared
-18, Threatening chat                    , Ellie threatens the chat
-19, Imaginary boyfriend                 , Ellie's imaginary boyfriend is mentioned
-20, Boss is a vtuber fan                , Ellie's boss being a vtuber fan is mentioned
-21, Chess mentioned                     , Chess is mentioned
-22, Gale mentioned                      , Gale is mentioned
-23, Autism                              , Autism is mentioned
-24, Not allowed to play games growing up, Ellie mentions not being allowed to play games growing up
-25, Self-deprecation                    , Self-deprecating humor is used
-26, No self-preservation instinct       , Ellie's Lack of self-preservation instinct is mentioned
-27, Banjo                               , Ellie's banjo or her banjo playing skill are mentioned
-28, Creepy guy story                    , A story about a creepy guy is shared
-29, Lives in NYC                        , Ellie mentions living in NYC
-30, Self-report                         , Ellie unintentionally reveals something about themselves
-31, Compares herself to her sisters     , A comparison to her sisters is made
-32, Plays one of her own songs          , Ellie plays one of their own songs
-33, Humans are my favorite animal       , Ellie says 'Humans are my favorite animal'
-34, Oranges mentioned                   , Oranges are mentioned
-35, 'I wish boys were real'             , Ellie says 'I wish boys were real'
-36, 'I'm not a catgirl'                 , Ellie claims that she is not a catgirl
-37, Cerber mentioned                    , Cerber is mentioned
-38, Mini mentioned                      , Mini is mentioned
-39, Bo mentioned                        , Bo is mentioned
-40, Shoomi mentioned                    , Shoomi is mentioned
-41, Off ADHD meds                       , Ellie mentions being off her ADHD meds
-42, Wolf catches strays                 , Wolf gets insulted
-43, 'Thank you Maple'                   , Ellie thanks Maple
-44, Off topic tangent                   , A long off-topic tangent occurs
-45, Blush detector activated            , Ellie blushes
-46, Ellie squeals                       , Ellie squeals
-47, Fawning over model expressiveness   , Ellie fawns over the expressiveness of her model
-48, Dadbot mentioned                    , Dadbot is mentioned
-49, Accidental insults                  , Ellie accidentally insults someone
-50, Ellie misses a joke                 , A joke or innuendo goes over Ellie's head
-51, 'Ellie underscore Minibot'          , the underscore in Ellie's name is mentioned
-52, Ellie alignment scale               , The Little Piss Boy scale is mentioned
-53, Phipps mentioned                    , The small vtuber Phipps is mentioned
+ID,Name,Description
+1,Beans mentioned,Beans are brought up
+2,Vedal raids/vedal raid mentioned,Vedal raids Ellie or his first raid is mentioned
+3,Robots discussion,Discussion about robots occurs
+4,AI discussion,Discussion about artificial intelligence occurs
+5,'Boy Scout',Ellie says that she's a boy scout
+6,Neurodog mentioned,Neurodog is mentioned
+7,'Growing boy',Ellie says that she's a growing boy
+8,Self doxing,Ellie unintentionally reveals personal information
+9,Story about being awkward,A story about being awkward is shared
+10,'Not a Ukelele',Ellie says her banjo is not a ukelele
+11,I'd win that fight/sweep the leg,Ellie claims she'd win a fight or says 'sweep the leg'
+12,Parasocialism,Parasocial relationships are discussed
+13,Non-standard unit of measurement,"A non-standard unit of measurement is used (something other than Metric, Imperial, or US customary)"
+14,Bao mentioned,Bao is mentioned
+15,Abnormally large mouth,Ellie mentions an abnormally large mouth
+16,Bugs mentioned,Bugs are mentioned
+17,Biology facts,Biology facts are shared
+18,Threatening chat,Ellie threatens the chat
+19,Imaginary boyfriend,Ellie's imaginary boyfriend is mentioned
+20,Boss is a vtuber fan,Ellie's boss being a vtuber fan is mentioned
+21,Chess mentioned,Chess is mentioned
+22,Gale mentioned,Gale is mentioned
+23,Autism,Autism is mentioned
+24,Not allowed to play games growing up,Ellie mentions not being allowed to play games growing up
+25,Self-deprecation,Self-deprecating humor is used
+26,No self-preservation instinct,Ellie's Lack of self-preservation instinct is mentioned
+27,Banjo,Ellie's banjo or her banjo playing skill are mentioned
+28,Creepy guy story,A story about a creepy guy is shared
+29,Lives in NYC,Ellie mentions living in NYC
+30,Self-report,Ellie unintentionally reveals something about themselves
+31,Compares herself to her sisters,A comparison to her sisters is made
+32,Plays one of her own songs,Ellie plays one of their own songs
+33,Humans are my favorite animal,Ellie says 'Humans are my favorite animal'
+34,Oranges mentioned,Oranges are mentioned
+35,'I wish boys were real',Ellie says 'I wish boys were real'
+36,'I'm not a catgirl',Ellie claims that she is not a catgirl
+37,Cerber mentioned,Cerber is mentioned
+38,Mini mentioned,Mini is mentioned
+39,Bo mentioned,Bo is mentioned
+40,Shoomi mentioned,Shoomi is mentioned
+41,Off ADHD meds,Ellie mentions being off her ADHD meds
+42,Wolf catches strays,Wolf gets insulted
+43,'Thank you Maple',Ellie thanks Maple
+44,Off topic tangent,A long off-topic tangent occurs
+45,Blush detector activated,Ellie blushes
+46,Ellie squeals,Ellie squeals
+47,Fawning over model expressiveness,Ellie fawns over the expressiveness of her model
+48,Dadbot mentioned,Dadbot is mentioned
+49,Accidental insults,Ellie accidentally insults someone
+50,Ellie misses a joke,A joke or innuendo goes over Ellie's head
+51,'Ellie underscore Minibot',the underscore in Ellie's name is mentioned
+52,Ellie alignment scale,The Little Piss Boy scale is mentioned
+53,Phipps mentioned,The small vtuber Phipps is mentioned
