@@ -9,14 +9,14 @@ ID, Name                                , Description
  8, Self doxing                         , Ellie unintentionally reveals personal information
  9, Story about being awkward           , A story about being awkward is shared
 10, 'Not a Ukelele'                     , Ellie says her banjo is not a ukelele
-11, I'd win that fight/sweep the leg    , Ellie claims they'd win a fight or mentions 'sweep the leg'
+11, I'd win that fight/sweep the leg    , Ellie claims she'd win a fight or says 'sweep the leg'
 12, Parasocialism                       , Parasocial relationships are discussed
 13, Non-standard unit of measurement    , "A non-standard unit of measurement is used (something other than Metric, Imperial, or US customary)"
 14, Bao mentioned                       , Bao is mentioned
 15, Abnormally large mouth              , Ellie mentions an abnormally large mouth
 16, Bugs mentioned                      , Bugs are mentioned
 17, Biology facts                       , Biology facts are shared
-18, Threatening chat                      , Ellie threatens the chat
+18, Threatening chat                    , Ellie threatens the chat
 19, Imaginary boyfriend                 , Ellie's imaginary boyfriend is mentioned
 20, Boss is a vtuber fan                , Ellie's boss being a vtuber fan is mentioned
 21, Chess mentioned                     , Chess is mentioned
@@ -49,6 +49,6 @@ ID, Name                                , Description
 48, Dadbot mentioned                    , Dadbot is mentioned
 49, Accidental insults                  , Ellie accidentally insults someone
 50, Ellie misses a joke                 , A joke or innuendo goes over Ellie's head
-51, 'Ellie_underscore_Minibot'          , the underscore in Ellie's name is mentioned
+51, 'Ellie underscore Minibot'          , the underscore in Ellie's name is mentioned
 52, Ellie alignment scale               , The Little Piss Boy scale is mentioned
 53, Phipps mentioned                    , The small vtuber Phipps is mentioned
